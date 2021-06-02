@@ -1,0 +1,8 @@
+
+resolver: lts-15.12
+
+extra-deps:
+  - github: FortOyer/worldturtle-haskell
+    commit: e2752c75ba6ffd2eee428a65e51b3df51295faf3
+    subdirs:
+      - worldturtle
